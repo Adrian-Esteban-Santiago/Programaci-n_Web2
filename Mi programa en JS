@@ -1,0 +1,10 @@
+//Adrian Esteban Santiago Pedraza
+
+let edad = prompt ("¿Cuántos años tienes?:"); 
+let peso = prompt ("¿Cuánto pesas?:");
+let estatura = prompt ("Dime tu estatura en metros:");
+let nombre = prompt ("Tu nombre es:");
+
+const imc = peso / (estatura * estatura);
+
+console.log ("Hola",nombre, "tienes",edad, "años", "pesas", peso, "y mides", estatura, "tu IMC es:", imc);
