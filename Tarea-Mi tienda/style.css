@@ -1,0 +1,8 @@
+body{
+    background-color: azure;
+}
+h1{
+    color: rgb(50, 42, 165);
+    background-color: rgb(230, 32, 141);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
